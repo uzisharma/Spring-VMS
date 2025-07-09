@@ -47,7 +47,7 @@ a{
 	<div class="container">
 		<h1>Welcome To Vehicle Management System</h1>
 		<div class="card">
-			<a href="addVehicle.jsp">Click To Add Vehicle</a>
+			<a href="addVehicle.jsp">Click To Add Vehicle Into the DataBase</a>
 			<a href="displayAllVehicle">Click To View All Vehicle</a>
 		</div>
 	</div>
