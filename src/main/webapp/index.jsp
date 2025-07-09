@@ -40,6 +40,7 @@ a{
 	margin: 10px;
 	text-decoration: none; 
 }
+
 </style>
 
 </head>
@@ -49,6 +50,9 @@ a{
 		<div class="card">
 			<a href="addVehicle.jsp">Click To Add Vehicle</a>
 			<a href="displayAllVehicle">Click To View All Vehicle</a>
+		</div>
+		<div class="back-button">
+			<a href="index.js">Back</a>
 		</div>
 	</div>
 </body>
